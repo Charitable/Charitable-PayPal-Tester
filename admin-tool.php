@@ -68,9 +68,6 @@ endif ?>
 				</tr>
 				<tr>
 					<td colspan="2" style="padding: 0 0 15px 0;">
-						<p><?php printf( __( "In October 2016, PayPal upgraded the SSL certificates used to secure its web sites and API endpoints. <a href='%s'>Read about how these changes will impact you.</a>", 'charitable' ),
-							'https://www.wpcharitable.com/how-paypals-ssl-certificate-upgrade-will-affect-you-and-how-you-can-prepare-for-it/?utm_source=notice&utm_medium=wordpress-dashboard&utm_campaign=paypal-ssl-upgrade&utm_content=blog-post'
-						) ?></p>						
 						<p><?php printf(
 							__( 'If you are experiencing problems with your PayPal donations remaining pending, we strongly recommend creating a <a href="%s">PayPal sandbox account</a> and testing a donation in the sandbox using the form below.', 'charitable' ),
 							'https://www.wpcharitable.com/documentation/how-do-i-create-a-paypal-sandbox-account/?utm_source=notice&utm_medium=wordpress-dashboard&utm_campaign=paypal-ssl-upgrade&utm_content=sandbox-docs'
